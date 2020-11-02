@@ -1,0 +1,7 @@
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\bin\Debug\HangiKredi.exe.config
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\bin\Debug\HangiKredi.exe
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\bin\Debug\HangiKredi.pdb
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\obj\Debug\HangiKredi.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\obj\Debug\HangiKredi.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\obj\Debug\HangiKredi.exe
+C:\Users\bilal\source\repos\HangiKredi\HangiKredi\obj\Debug\HangiKredi.pdb
